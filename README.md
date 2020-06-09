@@ -10,6 +10,7 @@ Cette messagerie possède les fontionnalités de sécurité suivantes:
 
 ## Require
 * Java13
+* Maven
 
 ## Instructions
 Pour lancer notre programme il faut lancer les jar du serveur et du client (dans cet ordre spécifique).
